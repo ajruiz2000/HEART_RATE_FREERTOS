@@ -1,0 +1,6 @@
+../STM32_WPAN/App/hrs_app.c:97:6:HRS_Notification	16	static
+../STM32_WPAN/App/hrs_app.c:149:6:HRS_APP_EvtRx	16	static
+../STM32_WPAN/App/hrs_app.c:187:6:HRS_APP_Init	16	static
+../STM32_WPAN/App/hrs_app.c:211:13:HRS_Hrme_SendNotification	24	static
+../STM32_WPAN/App/hrs_app.c:236:6:HRS_APP_Measurements_timCB	16	static
+../STM32_WPAN/App/hrs_app.c:250:6:HRS_APP_Measurements	32	static

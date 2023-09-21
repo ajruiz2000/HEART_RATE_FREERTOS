@@ -1,0 +1,8 @@
+../STM32_WPAN/Target/ll_sys_if.c:63:6:ll_sys_bg_process_init	1
+../STM32_WPAN/Target/ll_sys_if.c:76:6:ll_sys_schedule_bg_process	1
+../STM32_WPAN/Target/ll_sys_if.c:87:6:ll_sys_config_params	1
+../STM32_WPAN/Target/ll_sys_if.c:109:6:ll_sys_bg_temperature_measurement_init	1
+../STM32_WPAN/Target/ll_sys_if.c:121:6:ll_sys_bg_temperature_measurement	1
+../STM32_WPAN/Target/ll_sys_if.c:132:6:request_temperature_measurement	1
+../STM32_WPAN/Target/ll_sys_if.c:164:6:LINKLAYER_PLAT_EnableOSContextSwitch	1
+../STM32_WPAN/Target/ll_sys_if.c:173:6:LINKLAYER_PLAT_DisableOSContextSwitch	1

@@ -1,0 +1,3 @@
+../STM32_WPAN/App/hrs.c:124:30:HRS_EventHandler	64	static
+../STM32_WPAN/App/hrs.c:295:6:HRS_Init	56	static
+../STM32_WPAN/App/hrs.c:442:12:HRS_UpdateValue	32	static

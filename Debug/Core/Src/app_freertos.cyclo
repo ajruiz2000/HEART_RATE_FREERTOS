@@ -1,0 +1,11 @@
+../Core/Src/app_freertos.c:207:6:MX_FREERTOS_Init	1
+../Core/Src/app_freertos.c:307:6:BPKA_BG_Process_Entry	1
+../Core/Src/app_freertos.c:328:6:HW_RNG_Process_Entry	1
+../Core/Src/app_freertos.c:349:6:BleStack_Process_BG_Entry	1
+../Core/Src/app_freertos.c:368:6:Ble_UserEvtRx_Entry	1
+../Core/Src/app_freertos.c:391:6:ll_sys_bg_process_Entry	1
+../Core/Src/app_freertos.c:412:6:AMM_BackgroundProcess_Entry	1
+../Core/Src/app_freertos.c:433:6:FM_BackgroundProcess_Entry	1
+../Core/Src/app_freertos.c:454:6:request_temperature_measurement_Entry	1
+../Core/Src/app_freertos.c:475:6:APP_BLE_AdvLowPower_Entry	1
+../Core/Src/app_freertos.c:500:6:HRS_APP_Measurements_Entry	1

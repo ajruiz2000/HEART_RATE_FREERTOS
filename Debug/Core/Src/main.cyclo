@@ -1,0 +1,14 @@
+../Core/Src/main.c:79:5:main	1
+../Core/Src/main.c:145:6:SystemClock_Config	4
+../Core/Src/main.c:200:6:PeriphCommonClock_Config	2
+../Core/Src/main.c:221:6:MX_ADC4_Init	3
+../Core/Src/main.c:280:6:MX_CRC_Init	2
+../Core/Src/main.c:313:6:MX_GPDMA1_Init	1
+../Core/Src/main.c:343:6:MX_ICACHE_Init	3
+../Core/Src/main.c:375:6:MX_RAMCFG_Init	2
+../Core/Src/main.c:404:6:MX_RNG_Init	2
+../Core/Src/main.c:431:6:MX_RTC_Init	5
+../Core/Src/main.c:501:6:MX_USART1_UART_Init	5
+../Core/Src/main.c:549:6:MX_GPIO_Init	1
+../Core/Src/main.c:601:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:618:6:Error_Handler	1
